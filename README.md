@@ -46,7 +46,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joyahuang&theme=buefy&layout=compact" />
 </a> -->
 
-<br/>
+<!-- <br/> -->
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
@@ -54,6 +54,6 @@
 <a href="https://joyahuang.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-joyahuang.github.io-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/zhuoya-h-2a3614176/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-zhuoyahuang-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/joyahuangg/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-joyahuangg-blue?style=flat-square&logo=instagram"></a>
-<a href="leetcode_accept@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-blairdahuang@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="leetcode_accept@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-leetcode_accept@outlook.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
