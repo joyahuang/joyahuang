@@ -57,3 +57,5 @@
 <a href="leetcode_accept@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-leetcode_accept@outlook.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+
+remember to add  Observable Page: https://observablehq.com/d/bcc9fe82463924f2 ↩
