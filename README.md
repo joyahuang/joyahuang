@@ -8,7 +8,7 @@
 - 🌱 &nbsp; Studied Urban Planning at Tongji University.
 - 💼 &nbsp; Looking for SDE internship/coop opportunities.
 - :globe_with_meridians: &nbsp; Worked in geographical business platform as a front end developer and data analyst .
-- :drum: &nbsp; Pursuing Photography, Boxing and Drumming as hobbies/side hustles.
+- :drum: &nbsp; Passionate about Photography, Boxing and Drumming.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -57,5 +57,15 @@
 <a href="leetcode_accept@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-leetcode_accept@outlook.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
+<!-- <br/> -->
+<h3> 🤝🏻 &nbsp;Projects </h3>
 
-remember to add  Observable Page: https://observablehq.com/d/bcc9fe82463924f2 ↩
+
+Covid track visualization: https://observablehq.com/d/bcc9fe82463924f2 ↩
+Tripoi: an interactive mapping application for travel advising
+
+Code:
+
+Preview:
+
+
