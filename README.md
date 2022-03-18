@@ -61,11 +61,10 @@
 <h3> 🤝🏻 &nbsp;Projects </h3>
 
 
-Covid track visualization: https://observablehq.com/d/bcc9fe82463924f2 ↩
-Tripoi: an interactive mapping application for travel advising
+Covid tracker visualization: an interactive time lapse Covid map. https://observablehq.com/d/bcc9fe82463924f2 
 
-Code:
+Tripoi: an interactive mapping application for travel advising. https://joyahuang.github.io/tripoi/
 
-Preview:
+Memory: a MEARN stack project for image posts forum, with user auth, recommendation, user interact, etc. https://joyahuang.github.io/memory/
 
-data structure design problem
+
