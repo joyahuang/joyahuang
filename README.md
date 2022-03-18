@@ -61,10 +61,10 @@
 <h3> 🤝🏻 &nbsp;Projects </h3>
 
 
-Covid tracker visualization: an interactive time lapse Covid map. https://observablehq.com/d/bcc9fe82463924f2 
+- Covid tracker visualization: an interactive time lapse Covid map. https://observablehq.com/d/bcc9fe82463924f2 
 
-Tripoi: an interactive mapping application for travel advising. https://joyahuang.github.io/tripoi/
+- Tripoi: an interactive mapping application for travel advising. https://joyahuang.github.io/tripoi/
 
-Memory: a MEARN stack project for image posts forum, with user auth, recommendation, user interact, etc. https://joyahuang.github.io/memory/
+- Memory: a MEARN stack project for image posts forum, with user auth, recommendation, user interact, etc. https://joyahuang.github.io/memory/
 
-
+- Games: Othello (python), Crowd City (Unity), Pac Man (Python), Hearts (JavaScript), Destructo (Java)
